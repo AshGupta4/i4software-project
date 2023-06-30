@@ -1,4 +1,4 @@
-# Project-5-CS180
+# Project-5
 
 ## Instructions to Compile and Run
 
